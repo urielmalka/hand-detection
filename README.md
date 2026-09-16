@@ -1,1 +1,1 @@
-# hand-detection-dataset
+# hand-detection
